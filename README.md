@@ -62,9 +62,6 @@
 
 ---
 
-## Screenshots
-
-> *Select a device from the left panel — the center panel shows the live status dashboard, screen mirror, and file browser in tabs.*
 
 ---
 
